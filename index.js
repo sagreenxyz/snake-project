@@ -1,3 +1,5 @@
+// https://digitalskills.instructure.com/courses/3775/pages/activity-snake-names-6-dot-2-1?module_item_id=464450
+
 const snakeNames = require('snake-names');
 
 let namePicked = snakeNames.random();
